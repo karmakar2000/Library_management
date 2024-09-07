@@ -8,7 +8,7 @@
 
 This project implements a Library Management System using SQL. It encompasses creating and managing database tables, performing CRUD operations, and executing advanced SQL queries. The objective is to demonstrate proficiency in database design, manipulation, and querying.
 
-![Library Project](https://github.com/najirh/Library-System-Management---P2/blob/main/library.jpg)
+![Library Project](https://editor.analyticsvidhya.com/uploads/66982lms.jpg)
 
 ## Objectives
 
